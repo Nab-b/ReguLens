@@ -1,0 +1,90 @@
+{
+ "catatan": "Daftar sumber pemerintah yang dipantau. Tambah atau ubah sesuai kebutuhan. Tipe 'bpk' membaca daftar hasil pencarian peraturan.bpk.go.id (struktur sudah diperiksa). Tipe 'umum' membaca tautan dokumen dari halaman daftar mana pun (belum diuji pada situs aslinya). kata_abaikan: tambahan kata kunci yang membuat suatu peraturan dilewati (selain daftar bawaan: organisasi, kepegawaian, anggaran, dsb.).",
+ "jeda_detik": 1.5,
+ "user_agent": "Mozilla/5.0 (Regulens sinkronisasi; riset akademik)",
+ "kata_kunci": [
+  "obat",
+  "farmasi",
+  "kosmetik",
+  "kosmetika",
+  "alat kesehatan",
+  "kesehatan",
+  "suplemen",
+  "kuasi",
+  "bahan alam",
+  "tradisional",
+  "halal",
+  "perizinan berusaha",
+  "berbasis risiko",
+  "penataan ruang",
+  "kesesuaian kegiatan pemanfaatan ruang",
+  "lingkungan hidup",
+  "bangunan gedung",
+  "farmakovigilans",
+  "distribusi",
+  "impor",
+  "ekspor",
+  "registrasi",
+  "notifikasi",
+  "penarikan",
+  "pengawasan",
+  "periklanan",
+  "iklan",
+  "penandaan",
+  "cara pembuatan",
+  "narkotika",
+  "psikotropika",
+  "prekursor"
+ ],
+ "sumber": [
+  {
+   "nama": "JDIH BPK - Peraturan BPOM",
+   "tipe": "bpk",
+   "url": "https://peraturan.bpk.go.id/Search",
+   "params": {
+    "jenis": "230"
+   },
+   "halaman": 2
+  },
+  {
+   "nama": "JDIH BPK - kata kunci halal",
+   "tipe": "bpk",
+   "url": "https://peraturan.bpk.go.id/Search",
+   "params": {
+    "keyword": "jaminan produk halal"
+   },
+   "halaman": 1
+  },
+  {
+   "nama": "JDIH BPK - kata kunci obat dan alat kesehatan",
+   "tipe": "bpk",
+   "url": "https://peraturan.bpk.go.id/Search",
+   "params": {
+    "keyword": "obat alat kesehatan"
+   },
+   "halaman": 1
+  },
+  {
+   "nama": "JDIH BPK - kata kunci perizinan berusaha berbasis risiko",
+   "tipe": "bpk",
+   "url": "https://peraturan.bpk.go.id/Search",
+   "params": {
+    "keyword": "perizinan berusaha berbasis risiko kesehatan"
+   },
+   "halaman": 1
+  },
+  {
+   "nama": "JDIH BPJPH",
+   "tipe": "umum",
+   "url": "https://jdih.halal.go.id/jdih/dokumen",
+   "halaman": 1
+  },
+  {
+   "nama": "JDIH BPOM",
+   "tipe": "umum",
+   "url": "https://jdih.pom.go.id/",
+   "halaman": 1
+  }
+ ],
+ "kata_abaikan": []
+}

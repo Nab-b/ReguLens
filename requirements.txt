@@ -1,0 +1,3 @@
+# Regulens hanya memakai pustaka standar Python 3.9+. Tidak ada paket tambahan.
+# Opsional untuk membaca teks PDF yang diunggah ke folder Dokumen (jika 'pdftotext' tidak tersedia):
+# pypdf

@@ -1,0 +1,8 @@
+{
+ "versi": 2,
+ "sinkron_saat_mulai": true,
+ "jeda_jam": 6,
+ "terima_otomatis": false,
+ "tautan_otomatis": true,
+ "catatan": "Peraturan baru terdeteksi otomatis tetapi hanya masuk database setelah Anda setujui (panel Pembaruan di menu Peraturan). terima_otomatis=true: langsung masuk tanpa persetujuan. tautan_otomatis: peraturan yang sudah disetujui ditautkan ke Persyaratan Fasilitas/Produk dan ditandai Perlu ditinjau."
+}

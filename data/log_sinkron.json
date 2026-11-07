@@ -1,0 +1,32 @@
+[
+ {
+  "waktu": "2026-11-07 20:17",
+  "aksi": "sinkron",
+  "detail": "5 peraturan baru, 0 usulan status; sumber gagal dibaca: 1"
+ },
+ {
+  "waktu": "2026-11-07 20:22",
+  "aksi": "sinkron",
+  "detail": "5 peraturan baru, 0 usulan status; sumber gagal dibaca: 1"
+ },
+ {
+  "waktu": "2026-11-07 20:22",
+  "aksi": "sinkron",
+  "detail": "5 peraturan baru, 0 usulan status; sumber gagal dibaca: 1"
+ },
+ {
+  "waktu": "2026-11-07 20:23",
+  "aksi": "peraturan baru",
+  "detail": "PerBPOM 16/2026 masuk korpus; 4 persyaratan ditautkan otomatis"
+ },
+ {
+  "waktu": "2026-11-07 20:23",
+  "aksi": "peraturan baru",
+  "detail": "PerBPOM 19/2026 masuk korpus; 4 persyaratan ditautkan otomatis"
+ },
+ {
+  "waktu": "2026-11-07 20:23",
+  "aksi": "peraturan baru",
+  "detail": "PerBPOM 20/2026 masuk korpus; 4 persyaratan ditautkan otomatis"
+ }
+]

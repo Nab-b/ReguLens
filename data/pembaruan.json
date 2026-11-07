@@ -1,0 +1,42 @@
+{
+ "diperbarui": "2026-11-07 20:22",
+ "sumber": [
+  {
+   "nama": "JDIH BPK - Peraturan BPOM",
+   "jumlah": 20,
+   "galat": null
+  },
+  {
+   "nama": "JDIH BPK - kata kunci halal",
+   "jumlah": 50,
+   "galat": null
+  },
+  {
+   "nama": "JDIH BPK - kata kunci obat dan alat kesehatan",
+   "jumlah": 50,
+   "galat": null
+  },
+  {
+   "nama": "JDIH BPK - kata kunci perizinan berusaha berbasis risiko",
+   "jumlah": 50,
+   "galat": null
+  },
+  {
+   "nama": "JDIH BPJPH",
+   "jumlah": 0,
+   "galat": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "nama": "JDIH BPOM",
+   "jumlah": 7,
+   "galat": null
+  }
+ ],
+ "kandidat": [],
+ "usulan": [],
+ "tautan": [],
+ "abaikan": [
+  "perbpom-23-2026",
+  "perbpom-6-2026"
+ ]
+}
